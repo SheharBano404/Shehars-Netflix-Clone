@@ -7,9 +7,7 @@ This project is a Netflix clone built using React.js, designed to enhance skills
 
 ![PC screen](https://i.imgur.com/FLNs9Qy.jpg)
 
-
-
-### mobile experience 
+### Mobile Experience 
 ![mobile screens](https://i.imgur.com/ForTeQi.jpg)
  
 ## Key Functionalities
@@ -36,3 +34,9 @@ This Netflix clone project was developed to deepen understanding and proficiency
 
 ## Link to the Site
 [Netflix Clone](https://movieflix-reactjs.vercel.app/)
+
+## Developed By
+* **Shehar Bano** 
+
+## License
+* This project is licensed under the [MIT License](LICENSE).
