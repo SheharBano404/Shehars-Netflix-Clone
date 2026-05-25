@@ -18,6 +18,8 @@
 ## 🚀 Overview
 **Movieflix** is a feature-rich Netflix clone built with **React.js**. This project replicates the core functionality of a modern streaming platform, integrating dynamic movie data via the **TMDB API** and utilizing **Firebase** for secure user authentication and database management. The application offers a seamless, highly responsive, and immersive user experience.
 
+> **Note:** This project is an educational showcase focused on front-end development, API integration, and UI/UX design. It uses official TMDB and YouTube APIs to fetch metadata and movie trailers. It does not host or provide full-length movies.
+
 ---
 
 ## 📸 Project Preview
@@ -45,7 +47,7 @@
 * **Dynamic Browsing:** Real-time movie discovery using TMDB API.
 * **Personalized Experience:** Manage your own *My List*, *Liked Movies*, and *Watched History*.
 * **Advanced Search:** Instant search functionality to find specific titles.
-* **Immersive Player:** Integrated video playback support using React-Youtube.
+* **Immersive Player:** Integrated video playback for official movie trailers.
 * **Fully Responsive:** Optimized layout for Desktop, Tablet, and Mobile screens.
 
 ---
